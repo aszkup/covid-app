@@ -9,4 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="remove">Remove</string>
+    <string name="cases">Cases:</string>
+    <string name="date">Date:</string>
+    <string name="total_cases">Total cases:</string>
+    <string name="clean_history">Clean history</string>
 </resources>
